@@ -1,7 +1,5 @@
-<div>
-  <center>
-  <p align="center"><strong> Database strukturisasi KAMI Foundation menggunakan MySQL </strong></p>
-</div>
+# Database strukturisasi KAMI Foundation menggunakan MySQL
+
 
 ## Proyek apa ini?
 Proyek ini adalah implementasi dari struktur basis data untuk mengelola informasi dalam suatu perusahaan, termasuk data departemen, proyek, karyawan, dan hubungan antara karyawan. Basis data ini dibangun menggunakan MySQL dan mengikuti skema Entity-Relationship (ER).
