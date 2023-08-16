@@ -34,7 +34,7 @@ Skema basis data yang diimplementasi
 
 ## Penggunaan
 Silahkan Clone agar dapat menjalankan skrip ini menggunakan perintah SQL pada server MySQL Anda. Clone disini dimaksudkan untuk menduplikat sebuah repository. Proses clone ini biasanya digunakan oleh para developer untuk berkolaborasi di dalam sebuah project, jadi sebuah project dikerjakan oleh lebih dari 1 orang dan project tersebut disimpan di 1 repository saja.
-```
+```bash
 $ git clone git@github.com:jenyta-id/strukturisasidb.git
 ```
 
